@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+}
+
+:root {
+  --crimson: crimson;
+}
+
+.example-btn {
+  background-color: yellow;
+  color: #fff;
+}
